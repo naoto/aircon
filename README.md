@@ -16,7 +16,7 @@ Getting started
 
 ```
 $ cd /path/to/bin # in $PATH
-$ curl -O https://raw.githubusercontent.com/naoto/pecrant/master/aircon
+$ curl -O https://raw.githubusercontent.com/naoto/aircon/master/aircon
 $ chmod +x ./aircon
 ```
 
