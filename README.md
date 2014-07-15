@@ -26,7 +26,7 @@ $ chmod +x ./aircon
 $ aircon
 ```
 
-![](./images/aircon.gif)
+![](./image/aircon.gif)
 
 License
 --------------------
